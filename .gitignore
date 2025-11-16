@@ -2,6 +2,7 @@
 *.DS_Store
 .idea/
 .env
+.sln
 *.iml
 *.ipr
 cmake-build-*/
